@@ -1,0 +1,47 @@
+
+body{
+    background-image: url("https://img.freepik.com/free-photo/beautiful-car-washing-service_23-2149212221.jpg?w=2000");
+    margin-left: 5px;
+    
+    width: 100%;
+    height: 100%;
+}
+
+.titulo{
+    text-align: center;
+    margin-top: 20px;
+    background-color: rgb(121, 0, 0);
+    color: azure;
+    
+}
+
+.carta1{
+    margin: 0;
+    position: relative;
+}
+
+#formularioclientes{
+    color: white;
+}
+
+#formularioservicios{
+    color: white;
+}
+
+.titulo2{
+    color:rgb(255, 255, 255);
+    text-shadow: beige;
+    
+}
+
+.table{
+    color: white;
+}
+
+footer{
+    margin-left: 0;
+    margin-right: 0;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
